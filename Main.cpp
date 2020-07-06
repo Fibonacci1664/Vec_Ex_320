@@ -4,6 +4,7 @@
 void printAdjSum(const std::vector<int>& nums);
 void printOuterToInnerSum(const std::vector<int>& nums);
 
+
 int main()
 {
 	int num;
